@@ -152,6 +152,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+source_code.ipynb
 playground.ipynb
 .DS_Store
 
